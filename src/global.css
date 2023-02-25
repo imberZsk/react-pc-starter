@@ -1,0 +1,29 @@
+:root {
+  --adm-color-danger: #ff4132;
+}
+
+html {
+  line-height: 1.6;
+  height: 100%;
+  width: 100%;
+}
+
+body {
+  margin: 0;
+  overflow: hidden;
+  height: 100%;
+  width: 100%;
+}
+
+a {
+  background-color: transparent;
+}
+
+img {
+  border-style: none;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
