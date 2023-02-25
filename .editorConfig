@@ -1,0 +1,12 @@
+#不再向上查找.editorconfig
+root = true
+# *表示全部文件
+[*]
+#编码
+charset = utf-8
+#缩进方式
+indent_style = space
+#缩进空格数
+indent_size = 2
+#换行符lf
+end_of_line = lf
